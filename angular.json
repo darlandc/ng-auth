@@ -30,7 +30,9 @@
             "styles": [
               "src/styles.sass"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/@okta/okta-auth-js/dist/okta-auth-js.min.js"
+            ]
           },
           "configurations": {
             "production": {
