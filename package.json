@@ -22,7 +22,7 @@
     "@okta/okta-auth-js": "^2.11.0",
     "angular-oauth2-oidc": "^8.0.4",
     "bootstrap": "^4.0.0-beta",
-    "serialize-javascript": "^2.1.1",
+    "serialize-javascript": "^3.1.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
